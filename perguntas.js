@@ -1,19 +1,19 @@
 criaCartao(
-    'HISTÓRIA',
-    'Qual é o nome do maior Faraó do Egito?',
-    'Tutancâmon'
+    'GEOGRAFIA',
+    'Qual é a capital do Parana?',
+    'Curitiba'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'HISTORIA',
+    'Quem inventou a lampada?',
+    'Thomas Edison.'
 )
 
 criaCartao(
-    'LITERATURA',
-    'Qual é a o bra mais conhecida de Machado de Assis ?',
-    'Memórias Póstumas de Brás Cubas'
+    'FISICA',
+    '  Quais são as fases da Lua?',
+    ' Nova, crescente, cheia e minguante.'
 )
 
 criaCartao(
